@@ -8,4 +8,11 @@ Tasks
 Reminders
 Need to stick to Calendar tasks and reminders
 
+
 Study DevOps/Maven/Jenkins/CI-CD/Dockers/Kubernetes
+
+Car Loans
+Credit Card payments
+Expertise in MicroServices
+Kafka cluster engines
+Build High throughput applications with microservices, kafka, NoSQL as tech stack
