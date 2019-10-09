@@ -7,3 +7,5 @@ Sticky Notes
 Tasks
 Reminders
 Need to stick to Calendar tasks and reminders
+
+Study DevOps/Maven/Jenkins/CI-CD/Dockers/Kubernetes
